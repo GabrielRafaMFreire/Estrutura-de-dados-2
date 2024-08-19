@@ -1,2 +1,2 @@
 # Estrutura de dados 2
- 2a e 3a atividade de ED
+ 2a, 3a e 4a atividade de ED
